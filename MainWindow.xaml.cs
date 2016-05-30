@@ -1,0 +1,57 @@
+﻿using MztaTest.ViewModel;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace MztaTest
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+
+            Settings = new SettingsViewModel();
+            Exchange = new ExchangeViewModel(this.Settings, this.SettingsGrid.Dispatcher);
+        }
+
+
+        public SettingsViewModel Settings
+        {
+            get
+            {
+                return this.SettingsGrid.DataContext as SettingsViewModel;
+            }
+            set
+            {
+                this.SettingsGrid.DataContext = value;
+            }
+        }
+
+        public ExchangeViewModel Exchange
+        {
+            get
+            {
+                return this.ExchangeGrid.DataContext as ExchangeViewModel;
+            }
+            set
+            {
+                this.ExchangeGrid.DataContext = value;
+            }
+        }
+    }
+}

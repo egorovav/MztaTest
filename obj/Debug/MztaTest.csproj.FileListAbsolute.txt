@@ -1,0 +1,15 @@
+c:\users\alexey\documents\visual studio 2013\Projects\MztaTest\MztaTest\bin\Debug\MztaTest.exe.config
+c:\users\alexey\documents\visual studio 2013\Projects\MztaTest\MztaTest\bin\Debug\MztaTest.exe
+c:\users\alexey\documents\visual studio 2013\Projects\MztaTest\MztaTest\bin\Debug\MztaTest.pdb
+c:\users\alexey\documents\visual studio 2013\Projects\MztaTest\MztaTest\obj\Debug\MainWindow.baml
+c:\users\alexey\documents\visual studio 2013\Projects\MztaTest\MztaTest\obj\Debug\MainWindow.g.cs
+c:\users\alexey\documents\visual studio 2013\Projects\MztaTest\MztaTest\obj\Debug\App.g.cs
+c:\users\alexey\documents\visual studio 2013\Projects\MztaTest\MztaTest\obj\Debug\MztaTest_MarkupCompile.cache
+c:\users\alexey\documents\visual studio 2013\Projects\MztaTest\MztaTest\obj\Debug\MztaTest.g.resources
+c:\users\alexey\documents\visual studio 2013\Projects\MztaTest\MztaTest\obj\Debug\MztaTest.Properties.Resources.resources
+c:\users\alexey\documents\visual studio 2013\Projects\MztaTest\MztaTest\obj\Debug\MztaTest.csproj.GenerateResource.Cache
+c:\users\alexey\documents\visual studio 2013\Projects\MztaTest\MztaTest\obj\Debug\MztaTest.exe
+c:\users\alexey\documents\visual studio 2013\Projects\MztaTest\MztaTest\obj\Debug\MztaTest.pdb
+c:\users\alexey\documents\visual studio 2013\Projects\MztaTest\MztaTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\alexey\documents\visual studio 2013\Projects\MztaTest\MztaTest\obj\Debug\MztaTest_MarkupCompile.lref
+c:\users\alexey\documents\visual studio 2013\Projects\MztaTest\MztaTest\obj\Debug\MztaTest.csprojResolveAssemblyReference.cache
